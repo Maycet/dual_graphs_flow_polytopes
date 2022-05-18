@@ -3,7 +3,7 @@
 
 > **Remark:** Every of the attached scripts are methods written for beign executed with Sagemath not Python itself.
 
-> For the full context of the mathematical structures and processes you can read : https://drive.google.com/file/d/11TURML3d6pDbyxM1f_omet2mQD--h03l
+> For the full context of the mathematical structures and processes you can read my bachelor's thesis at https://drive.google.com/file/d/11TURML3d6pDbyxM1f_omet2mQD--h03l or its references for the complete documentation.
 
 The correct order to execute the methods on this repository are:
 
