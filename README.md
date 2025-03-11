@@ -1,9 +1,9 @@
 # dual_graphs_flow_polytopes
 ### Collection of methods used in my bachelor's thesis for the conjectures that were proved in it.
 
-> **Remark:** Every of the attached scripts are methods written for beign executed with Sagemath not Python itself.
+> **Remark:** Every of the attached scripts are methods written for beign executed with Sagemath (over python 2.7) not Python itself.
 
-> For the full context of the mathematical structures and processes you can read my bachelor's thesis at https://maycet.github.io/BachelorsThesis.html or its references for the complete documentation.
+> For the full context of the mathematical structures and processes you can read my [bachelor's thesis](https://maycet.github.io/files/thesis.pdf) or its references for the complete documentation.
 
 The correct order to execute the methods on this repository are:
 
